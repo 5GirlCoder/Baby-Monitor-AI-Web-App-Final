@@ -1,0 +1,34 @@
+body
+{
+    background-color: #e4d6f7;
+}
+
+.headingDIV
+{
+    font-family: 'Pacifico', cursive;
+    margin: 10px;
+    padding: 10px;
+    border: 4px solid #FFEBF4;
+    border-radius: 10px;
+    width: 80%;
+    background-color: #ffebf470;
+}
+
+.StatusDIV, .BabyStatusDIV
+{
+    background-color: #efffd680;
+    border: 3px solid #EFFFD6;
+    margin: 5px;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    width: 50%;
+    border-radius: 10px;
+}
+
+canvas
+{
+    margin-top: 100px;
+    border: 4px ridge #EFFFEB;
+    border-radius: 15px;
+    background-color: #ffebf470;
+}
